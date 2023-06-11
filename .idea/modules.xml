@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayTopic.iml" filepath="$PROJECT_DIR$/ArrayTopic.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesOnArrays/ChallengesOnArrays.iml" filepath="$PROJECT_DIR$/ChallengesOnArrays/ChallengesOnArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengesOnArrays-2/ChallengesOnArrays-2.iml" filepath="$PROJECT_DIR$/ChallengesOnArrays-2/ChallengesOnArrays-2.iml" />
     </modules>
   </component>
 </project>
