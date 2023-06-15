@@ -30,6 +30,15 @@ public class Main {
 
         }
 
+        // jagged array
+
+        int D[][];
+        D =  new int[3][];
+        D[0]= new int[2];
+        D[1]= new int[4];
+        D[2] = new int[3];
+
+
 
     }
 }
