@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayTopic.iml" filepath="$PROJECT_DIR$/ArrayTopic.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesOnArrays/ChallengesOnArrays.iml" filepath="$PROJECT_DIR$/ChallengesOnArrays/ChallengesOnArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesOnArrays-2/ChallengesOnArrays-2.iml" filepath="$PROJECT_DIR$/ChallengesOnArrays-2/ChallengesOnArrays-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TwoDimentionalArray/TwoDimentionalArray.iml" filepath="$PROJECT_DIR$/TwoDimentionalArray/TwoDimentionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoDArrayPractice/twoDArrayPractice.iml" filepath="$PROJECT_DIR$/twoDArrayPractice/twoDArrayPractice.iml" />
     </modules>
   </component>
 </project>
