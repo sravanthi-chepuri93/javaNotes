@@ -13,6 +13,17 @@ public class twoDarrayChallenge {
         System.out.println(A[0][0]);
         System.out.println(A[2][3]);
 
+        F = new int[3][3];
+        F[0][0] = 3;
+        F[0][1] = 5;
+        F[0][2] = 9;
+
+        for(int x[]:F){
+            for(int y:x){
+                System.out.print(y+",");
+            }
+            System.out.println("");
+        }
         // jagged array
 
         int[][] G;
